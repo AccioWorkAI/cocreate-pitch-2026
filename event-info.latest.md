@@ -8,7 +8,7 @@ Keep changing event facts here, and keep each fact in one place.
 
 - Name: CoCreate Pitch 2026
 - About: The world's largest AI-native product-based startup competition powered by AccioWork.
-- Website: https://www.accio.com/work
+- Website: https://www.alibabacocreate.com/pitch
 - Contact: cocreate@service.alibaba.com
 - Apply URL: https://form.typeform.com/to/SkLGsS9y
 - Hashtag: #CoCreate2026
