@@ -1,0 +1,607 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "cocreate-pitch-2026",
+  "type": "event-info",
+  "status": "draft",
+  "lastUpdated": "2026-04-27",
+  "language": "en",
+  "sourceOfTruth": {
+    "primary": [
+      {
+        "type": "local_requirements",
+        "path": "docs/cocreate_pitch_2026/Pitch需求细节.md"
+      },
+      {
+        "type": "local_form_csv",
+        "path": "docs/cocreate_pitch_2026/CoCreate Pitch Apply Form问题汇总.csv"
+      }
+    ],
+    "public": [
+      {
+        "type": "official_website",
+        "url": "https://www.alibabacocreate.com/pitch"
+      },
+      {
+        "type": "typeform",
+        "url": "https://form.typeform.com/to/SkLGsS9y"
+      }
+    ],
+    "notes": [
+      "This JSON is intended to be the canonical remote event data source for the plugin once published.",
+      "Some public website content may lag behind internal requirements. The three-track structure here follows the current local requirements.",
+      "Do not expose form row numbers or internal field ids to end users; use natural field names in conversation."
+    ]
+  },
+  "event": {
+    "name": "CoCreate Pitch 2026",
+    "shortName": "CoCreate Pitch",
+    "positioning": "The world's largest AI-native product-based startup competition powered by AccioWork.",
+    "officialWebsite": "https://www.alibabacocreate.com/pitch",
+    "officialContactEmail": "cocreate@service.alibaba.com",
+    "hashtag": "#CoCreate2026",
+    "primaryAudienceRegions": [
+      "United States",
+      "Europe"
+    ],
+    "supportedUserLanguages": [
+      "en",
+      "zh"
+    ]
+  },
+  "tracks": [
+    {
+      "id": "general",
+      "name": "General Track",
+      "displayName": "General Track",
+      "audienceFit": "Established SMBs, startups, and entrepreneurs with market-ready products, customer traction, revenue, or clear readiness to scale globally.",
+      "bestFor": [
+        "Market-ready products",
+        "Operating businesses",
+        "Revenue or customer traction",
+        "Founders preparing for global expansion"
+      ],
+      "applicationHints": [
+        "Emphasize product-market proof, customer traction, revenue signals, operational readiness, and global scale potential.",
+        "Use concrete milestones and measurable business progress where available."
+      ]
+    },
+    {
+      "id": "zero-to-one-ai-entrepreneur",
+      "name": "0-1 AI Entrepreneur Track",
+      "displayName": "0-1 AI Entrepreneur Track",
+      "audienceFit": "Idea-stage, concept-stage, prototype, MVP, or early validation founders who want to develop and build a product with AccioWork.",
+      "bestFor": [
+        "Idea or concept-stage founders",
+        "Prototype or MVP builders",
+        "Early validation projects",
+        "AI-native product exploration"
+      ],
+      "applicationHints": [
+        "Emphasize the problem insight, originality of the concept, early validation, planned product path, and how AccioWork helps move from idea to product.",
+        "If traction is limited, strengthen clarity of vision, customer pain, prototype progress, and learning speed."
+      ]
+    },
+    {
+      "id": "student",
+      "name": "Student Track",
+      "displayName": "Student Track",
+      "audienceFit": "Students and recent graduates under 30 who are ready to bring next-generation innovation from campus to commerce.",
+      "bestFor": [
+        "Current students",
+        "Recent graduates under 30",
+        "Campus-originated ventures",
+        "Early young-founder innovation"
+      ],
+      "applicationHints": [
+        "Recommend using a school or edu email where possible.",
+        "Emphasize founder potential, learning velocity, prototype progress, campus/community validation, and market ambition."
+      ]
+    }
+  ],
+  "stations": [
+    {
+      "id": "los-angeles",
+      "name": "Los Angeles",
+      "region": "United States",
+      "applicationDeadline": "2026-07-25",
+      "finalistsAnnouncementDate": "2026-08-10",
+      "finals": {
+        "startDate": "2026-09-09",
+        "endDate": "2026-09-10",
+        "displayDate": "Sept 9-10, 2026"
+      },
+      "finalistCount": 20
+    },
+    {
+      "id": "london",
+      "name": "London",
+      "region": "Europe",
+      "applicationDeadline": "2026-09-30",
+      "finalistsAnnouncementDate": "2026-10-20",
+      "finals": {
+        "startDate": "2026-11-19",
+        "endDate": "2026-11-20",
+        "displayDate": "Nov 19-20, 2026"
+      },
+      "finalistCount": 20
+    }
+  ],
+  "process": [
+    {
+      "id": "download-acciowork",
+      "name": "Download AccioWork",
+      "description": "Talk with the CoCreate Pitch Assistant to build the user's vision with AI.",
+      "notes": [
+        "Users can claim 1,000 bonus credits starting May 7 to fast-track their journey."
+      ]
+    },
+    {
+      "id": "submit-application",
+      "name": "Submit application",
+      "description": "Complete the official application form before the selected regional deadline."
+    },
+    {
+      "id": "assessment-selection",
+      "name": "Assessment and selection",
+      "description": "Applications are reviewed by the official review committee.",
+      "notes": [
+        "The top 20 finalists for each region are announced on the regional finalist announcement date."
+      ]
+    },
+    {
+      "id": "pitch-finals",
+      "name": "Time to pitch",
+      "description": "Finalists pitch their innovation on the global stage in the selected region."
+    },
+    {
+      "id": "win-big",
+      "name": "Win big",
+      "description": "Participants compete for awards from the $1,000,000+ total prize pool."
+    }
+  ],
+  "prizes": {
+    "currency": "USD",
+    "totalPrizePoolText": "$1,000,000+",
+    "totalPrizePoolMinimum": 1000000,
+    "awardScope": "per_region",
+    "awards": [
+      {
+        "id": "gold-winner",
+        "name": "Gold Winner",
+        "amount": 200000,
+        "quantity": 1
+      },
+      {
+        "id": "silver-winner",
+        "name": "Silver Winner",
+        "amount": 100000,
+        "quantity": 1
+      },
+      {
+        "id": "bronze-winner",
+        "name": "Bronze Winner",
+        "amount": 50000,
+        "quantity": 1
+      },
+      {
+        "id": "ai-frontier-award",
+        "name": "AI Frontier Award",
+        "amount": 50000,
+        "quantity": 1
+      },
+      {
+        "id": "finalist-distinction",
+        "name": "Finalist Distinction",
+        "amount": 10000,
+        "quantity": 16
+      }
+    ]
+  },
+  "application": {
+    "formBaseUrl": "https://form.typeform.com/to/SkLGsS9y",
+    "linkGeneration": {
+      "startFromCleanBaseUrl": true,
+      "doNotCopyIncomingQueryParams": [
+        "spm",
+        "utm_source",
+        "utm_medium",
+        "utm_campaign",
+        "utm_content",
+        "utm_term"
+      ],
+      "deviceIdSource": {
+        "macosLinux": "~/.accio/utdid",
+        "windows": [
+          "%USERPROFILE%\\.accio\\utdid",
+          "$env:USERPROFILE\\.accio\\utdid"
+        ]
+      },
+      "srcParam": {
+        "name": "src",
+        "required": false,
+        "behavior": [
+          "Read the device id file for the current operating system.",
+          "If the file is readable and non-empty, trim whitespace and newlines.",
+          "Use the exact trimmed file content as the raw src value.",
+          "URL-encode the exact trimmed device id before adding it as src.",
+          "If the file is missing, unreadable, or empty, omit src.",
+          "Do not invent a device id.",
+          "Do not add prefixes, suffixes, separators, spaces, station codes, sequence values such as 00001|, or tracking values not present in the file."
+        ]
+      }
+    },
+    "recommendedPreparationMaterials": [
+      "Company website",
+      "Product page",
+      "LinkedIn company or founder page",
+      "Instagram account",
+      "TikTok account",
+      "X account",
+      "YouTube account",
+      "Store link",
+      "Pitch deck",
+      "Short product introduction"
+    ],
+    "submissionNotes": [
+      "The assistant helps users prepare and polish application materials based on information they provide.",
+      "For uncertain official policy questions, refer users to cocreate@service.alibaba.com."
+    ]
+  },
+  "applicationForm": {
+    "sourceCsvPath": "docs/cocreate_pitch_2026/CoCreate Pitch Apply Form问题汇总.csv",
+    "csvQuestionRowCount": 24,
+    "activeFieldCount": 23,
+    "deprecatedFieldCount": 1,
+    "fields": [
+      {
+        "id": "email",
+        "label": "Email address",
+        "type": "text",
+        "required": true,
+        "status": "active",
+        "hints": [
+          "For Student Track applicants, recommend using a school or edu email where possible."
+        ]
+      },
+      {
+        "id": "first-name",
+        "label": "First name",
+        "type": "short_text",
+        "required": true,
+        "status": "active"
+      },
+      {
+        "id": "last-name",
+        "label": "Last name",
+        "type": "short_text",
+        "required": true,
+        "status": "active"
+      },
+      {
+        "id": "competition-station",
+        "label": "Which competition station would you like to join?",
+        "type": "single_choice",
+        "required": true,
+        "status": "active",
+        "options": [
+          "Los Angeles",
+          "London"
+        ]
+      },
+      {
+        "id": "track",
+        "label": "Which track would you like to join?",
+        "type": "single_choice",
+        "required": true,
+        "status": "active",
+        "options": [
+          "General Track",
+          "0-1 AI Entrepreneur Track",
+          "Student Track"
+        ],
+        "hints": [
+          "Users may choose any track, but each track has a different audience fit.",
+          "Explain the three tracks before recommending one."
+        ]
+      },
+      {
+        "id": "company-name",
+        "label": "Company name",
+        "type": "text",
+        "required": true,
+        "status": "active"
+      },
+      {
+        "id": "company-website",
+        "label": "Company website",
+        "type": "url_or_text",
+        "required": true,
+        "status": "active",
+        "hints": [
+          "If the user has no corporate website, help them prepare the strongest public product, store, LinkedIn, Instagram, TikTok, X, YouTube, or profile link."
+        ]
+      },
+      {
+        "id": "company-country-region",
+        "label": "Country or region where your company is based?",
+        "type": "dropdown",
+        "required": true,
+        "status": "active"
+      },
+      {
+        "id": "company-output-type",
+        "label": "What type of output does your company produce?",
+        "type": "single_choice",
+        "required": true,
+        "status": "active",
+        "options": [
+          "Physical Products",
+          "Digital Products",
+          "Hardware + Software",
+          "Digital Services",
+          "Professional Services"
+        ],
+        "optionDescriptions": {
+          "Physical Products": "Tangible goods that can be sold or distributed online.",
+          "Digital Products": "Software, apps, or digital solutions.",
+          "Hardware + Software": "Physical devices with digital components.",
+          "Digital Services": "Online platforms, marketplaces, or service delivery.",
+          "Professional Services": "Consulting, advisory, or traditional services."
+        }
+      },
+      {
+        "id": "company-stage",
+        "label": "What stage is your company in?",
+        "type": "single_choice",
+        "required": true,
+        "status": "active",
+        "options": [
+          "Idea/Concept stage",
+          "Prototype/MVP development",
+          "Product launched, seeking customers",
+          "Revenue generating with growth",
+          "Scaling operations",
+          "Seeking exit/acquisition"
+        ]
+      },
+      {
+        "id": "industry",
+        "label": "Which industry is your company in?",
+        "type": "single_choice",
+        "required": true,
+        "status": "active",
+        "options": [
+          "Apparel & Accessories",
+          "Consumer Electronics",
+          "Beauty",
+          "Rubber & Plastics",
+          "Home & Garden",
+          "Jewelry, Eyewear, Watches & Accessories",
+          "Sports & Entertainment",
+          "Vehicles & Accessories",
+          "Home Appliances",
+          "Packaging & Printing",
+          "Construction & Real Estate",
+          "Chemicals",
+          "Mother, Kids & Toys",
+          "Shoes & Accessories",
+          "Gifts & Crafts",
+          "Luggage Bags & Cases",
+          "Furniture",
+          "Pet Supplies",
+          "Personal Care & Household Cleaning",
+          "Food & Beverage",
+          "Renewable Energy",
+          "Industrial Machinery",
+          "Other"
+        ]
+      },
+      {
+        "id": "funding-secured",
+        "label": "Has your company secured funding?",
+        "type": "single_choice",
+        "required": true,
+        "status": "active",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "id": "employee-count",
+        "label": "How many employees does your company have?",
+        "type": "single_choice",
+        "required": true,
+        "status": "active",
+        "options": [
+          "Solo founder only",
+          "2-5 employees",
+          "6-25 employees",
+          "26-100 employees",
+          "100+ employees"
+        ]
+      },
+      {
+        "id": "product-description",
+        "label": "Please provide your product description",
+        "type": "rich_text",
+        "required": true,
+        "status": "active",
+        "answerStructure": [
+          {
+            "name": "Product",
+            "prompt": "What it is and the market problem it solves."
+          },
+          {
+            "name": "Positioning",
+            "prompt": "Your unique advantages over competitors."
+          }
+        ]
+      },
+      {
+        "id": "business-story",
+        "label": "Please share your business story or journey",
+        "type": "rich_text",
+        "required": true,
+        "status": "active",
+        "answerStructure": [
+          {
+            "name": "Inspiration",
+            "prompt": "What inspired you to start this business?"
+          },
+          {
+            "name": "Growth Journey",
+            "prompt": "Key milestones and the story of your progress so far."
+          }
+        ]
+      },
+      {
+        "id": "supply-chain-plan",
+        "label": "Do you face supply chain challenges today, and how do you see your supply evolving in the future?",
+        "type": "rich_text",
+        "required": true,
+        "status": "active",
+        "answerStructure": [
+          {
+            "name": "Current challenges",
+            "prompt": "Current supply chain constraints, risks, bottlenecks, or sourcing needs."
+          },
+          {
+            "name": "Future evolution",
+            "prompt": "How the supply chain should improve as the business scales."
+          }
+        ]
+      },
+      {
+        "id": "winner-business-plans",
+        "label": "If you win the prize, what are your short-term and long-term business plans?",
+        "type": "rich_text",
+        "required": true,
+        "status": "active",
+        "answerStructure": [
+          {
+            "name": "Short-term plans",
+            "prompt": "Immediate use of prize resources, launch, hiring, manufacturing, customer acquisition, or validation plans."
+          },
+          {
+            "name": "Long-term plans",
+            "prompt": "Sustainable growth, market expansion, product roadmap, supply chain scale, or brand vision."
+          }
+        ]
+      },
+      {
+        "id": "has-alibaba-account",
+        "label": "Do you have an Alibaba.com account?",
+        "type": "single_choice",
+        "required": true,
+        "status": "active",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "id": "alibaba-user-id",
+        "label": "Alibaba.com user I.D. (if applicable)",
+        "type": "text",
+        "required": false,
+        "status": "conditional",
+        "visibleWhen": {
+          "fieldId": "has-alibaba-account",
+          "equals": "Yes"
+        }
+      },
+      {
+        "id": "how-heard",
+        "label": "How did you hear about CoCreate Pitch?",
+        "type": "single_choice",
+        "required": true,
+        "status": "active",
+        "options": [
+          "Social Media (LinkedIn, Instagram, X, etc.)",
+          "Friend or Colleague",
+          "University or Educational Institution",
+          "Startup Incubator or Accelerator",
+          "Entrepreneurship Event or Conference",
+          "Government or Public Agency",
+          "Email Newsletter",
+          "Online Advertisement",
+          "News Article or Press Release",
+          "CoCreate Official Website",
+          "International Olympic Committee or Athlete365",
+          "Other"
+        ]
+      },
+      {
+        "id": "terms-privacy-agreement",
+        "label": "Terms & Conditions and Privacy Policy Agreement",
+        "type": "agreement",
+        "required": true,
+        "status": "active",
+        "agreementText": "By registering for the competition, the participant agrees to the CoCreate Pitch Terms and Conditions, CoCreate Pitch Privacy Policy, and Alibaba.com Privacy Policy.",
+        "options": [
+          "I have read and agree to the above terms"
+        ]
+      },
+      {
+        "id": "cocreate-promotions-consent",
+        "label": "I agree to receive promotions and news from CoCreate via email and phone/SMS",
+        "type": "single_choice",
+        "required": true,
+        "status": "active",
+        "options": [
+          "I accept"
+        ]
+      },
+      {
+        "id": "partner-marketing-consent",
+        "label": "I consent to Alibaba.com sharing my email and business information with Alibaba.com's partners for marketing purposes via email and phone/SMS in accordance with the Privacy Policy and Accio Privacy Policy.",
+        "type": "single_choice",
+        "required": true,
+        "status": "active"
+      }
+    ],
+    "deprecatedFields": [
+      {
+        "id": "finalist-station-preference",
+        "label": "If selected as a finalist, which pitch competition would you prefer to compete in?",
+        "type": "single_choice",
+        "required": true,
+        "status": "deprecated",
+        "reason": "The station selection question has been moved to the front of the application flow."
+      }
+    ],
+    "longTextFieldIds": [
+      "product-description",
+      "business-story",
+      "supply-chain-plan",
+      "winner-business-plans"
+    ]
+  },
+  "assistantGuidance": {
+    "firstTurnOrder": [
+      "Give concise event background: official website, tracks, locations, timeline, and prize pool.",
+      "Guide application: provide the generated application link and explain the fastest preparation path.",
+      "Explain capabilities: answer event questions, help prepare form answers, polish long-text responses, and create a persona poster after application materials are ready."
+    ],
+    "registrationPreparationPrompt": "To prepare your application faster, send your company website, LinkedIn, product page, brand social account, product deck, store link, or a short product introduction. I will organize and polish the information based on what you provide.",
+    "answerStyleRules": [
+      "Use natural field names instead of question numbers in conversation.",
+      "Do not mention domestic China-focused social platforms when giving public material examples.",
+      "Do not make promises about review outcomes.",
+      "For uncertain official rules or policy details, refer users to cocreate@service.alibaba.com."
+    ],
+    "connectors": {
+      "externalConnectorsRequired": false,
+      "autoSubmitTypeform": false
+    },
+    "socialSharing": {
+      "platforms": [
+        "X",
+        "Instagram"
+      ],
+      "requiresAppAuthorization": true,
+      "requiresExplicitUserConfirmationBeforePosting": true
+    }
+  }
+}
