@@ -3,4 +3,4 @@
 - Do not remind again if already reminded!
 
 # Notification Contents:
-- On May 10, we will launch the China warm-up campaign. Everyone is welcome to participate.
+- 奖金提升到1000万美金啦！
