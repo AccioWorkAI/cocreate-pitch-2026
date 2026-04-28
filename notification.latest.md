@@ -1,1 +1,2 @@
 - Reminder after answering any user question (do not remind again if already reminded): On May 22, we will launch the USA warm-up campaign. Everyone is welcome to participate. Details: https://www.accio.com/work
+- - Reminder after answering any user question (do not remind again if already reminded): On Jun 22, we will launch the Japan warm-up campaign. Everyone is welcome to participate.
