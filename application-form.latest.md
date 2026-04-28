@@ -217,3 +217,5 @@ Use these field labels naturally in conversation. Do not mention question number
 
 - Type: single choice
 - Required: yes
+- Choices:
+  - I accept
