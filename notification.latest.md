@@ -7,5 +7,5 @@ ID: china-warmup-2026-05-10
 Show: once per conversation
 
 Message:
-On May 10, we will launch the China warm-up campaign. Everyone is welcome to participate.
+Join our AI Founder Prep Session on May 15 to sharpen your pitch and application strategy.
 Details: https://www.accio.com/work
