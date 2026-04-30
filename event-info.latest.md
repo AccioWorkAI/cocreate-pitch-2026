@@ -1,109 +1,214 @@
-# CoCreate Pitch 2026 Event Info
+# CoCreate Pitch Application Form
 
-Updated: 2026-04-27
+Updated: 2026-04-30
 
-Keep changing event facts here, and keep each fact in one place.
+## Application Form
 
-## Event
+### Email address
 
-- Name: CoCreate Pitch 2026
-- About: The world's largest AI-native product-based startup competition powered by AccioWork.
-- Website: https://www.alibabacocreate.com/pitch
-- Contact: cocreate@service.alibaba.com
-- Apply URL: https://form.typeform.com/to/SkLGsS9y
-- Hashtag: #CoCreate2026
+- Type: input
+- Required: yes
+- Notes:
+  - For Student Track applicants, recommend using a school or `.edu` email where possible.
 
-## Tracks
+### First name
 
-### General Track
+- Type: input
+- Required: yes
 
-Audience: Established SMBs, startups, and entrepreneurs with market-ready products, customer traction, revenue, or clear readiness to scale globally.
+### Last name
 
-Best for:
-- Market-ready products
-- Operating businesses
-- Revenue or customer traction
-- Founders preparing for global expansion
+- Type: input
+- Required: yes
 
-Tips:
-- Emphasize product-market proof, customer traction, revenue signals, operational readiness, and global scale potential.
-- Use concrete milestones and measurable business progress where available.
+### Which stop would you like to join?
 
-### 0-1 AI Entrepreneur Track
+- Type: radio
+- Required: yes
+- Choices:
+  - Los Angeles
+  - London
 
-Audience: Idea-stage, concept-stage, prototype, MVP, or early validation founders who want to develop and build a product with AccioWork.
+### Which track would you like to join?
 
-Best for:
-- Idea or concept-stage founders
-- Prototype or MVP builders
-- Early validation projects
-- AI-native product exploration
+- Type: radio
+- Required: yes
+- Choices:
+  - General Track
+  - 0-1 AI Entrepreneur Track
+  - Student Track
 
-Tips:
-- Emphasize the problem insight, originality of the concept, early validation, planned product path, and how AccioWork helps move from idea to product.
-- If traction is limited, strengthen clarity of vision, customer pain, prototype progress, and learning speed.
+### Company name
 
-### Student Track
+- Type: input
+- Required: yes
 
-Audience: Students and recent graduates under 30 who are ready to bring next-generation innovation from campus to commerce.
+### Company website
 
-Best for:
-- Current students
-- Recent graduates under 30
-- Campus-originated ventures
-- Early young-founder innovation
+- Type: input
+- Required: yes
 
-Tips:
-- Recommend using a school or edu email where possible.
-- Emphasize founder potential, learning velocity, prototype progress, campus/community validation, and market ambition.
+### Country or region where your company is based?
 
-## Locations
+- Type: searchable select
+- Required: yes
+- Choices:
+  - Full official country/region list.
 
-| City | Region | Apply by | Top 20 announcement | Finals | Finalists |
-| --- | --- | --- | --- | --- | ---: |
-| Los Angeles | United States | 2026-07-25 | 2026-08-10 | Sept 9-10, 2026 | 20 |
-| London | Europe | 2026-09-30 | 2026-10-20 | Nov 19-20, 2026 | 20 |
+### What type of output does your company produce?
 
-## Process
+- Type: select
+- Required: yes
+- Choices:
+  - Physical Products - Tangible goods that can be sold/distributed online
+  - Digital Products - Software, apps, or digital solutions
+  - Hardware + Software - Physical devices with digital components
+  - Digital Services - Online platforms, marketplaces, or service delivery
+  - Professional Services - Consulting, advisory, or traditional services
 
-1. Download AccioWork: Talk with the CoCreate Pitch Assistant to build the user's vision with AI. Users can claim 1,000 bonus credits starting May 7 to fast-track their journey.
-2. Submit application: Complete the official application form before the selected regional deadline.
-3. Assessment and selection: Applications are reviewed by the official review committee. The top 20 finalists for each region are announced on the regional finalist announcement date.
-4. Time to pitch: Finalists pitch their innovation on the global stage in the selected region.
-5. Win big: Participants compete for the listed awards.
+### What stage is your company in?
 
-## Prizes
+- Type: select
+- Required: yes
+- Choices:
+  - Idea/Concept stage
+  - Prototype/MVP development
+  - Product launched, seeking customers
+  - Revenue generating with growth
+  - Scaling operations
+  - Seeking exit/acquisition
 
-- Prize pool: $1,000,000+
-- Scope: per region
-- Awards:
-  - Gold Winner: $200,000 x 1
-  - Silver Winner: $100,000 x 1
-  - Bronze Winner: $50,000 x 1
-  - AI Frontier Award: $50,000 x 1
-  - Finalist Distinction: $10,000 x 16
+### Which industry is your company in?
 
-## Materials To Ask For
+- Type: select
+- Required: yes
+- Choices:
+  - Apparel & Accessories
+  - Consumer Electronics
+  - Beauty
+  - Rubber & Plastics
+  - Home & Garden
+  - Jewelry, Eyewear, Watches & Accessories
+  - Sports & Entertainment
+  - Vehicles & Accessories
+  - Home Appliances
+  - Packaging & Printing
+  - Construction & Real Estate
+  - Chemicals
+  - Mother, Kids & Toys
+  - Shoes & Accessories
+  - Gifts & Crafts
+  - Luggage Bags & Cases
+  - Furniture
+  - Other
 
-- Company website
-- Product page
-- LinkedIn company or founder page
-- Instagram account
-- TikTok account
-- X account
-- YouTube account
-- Store link
-- Pitch deck
-- Short product introduction
+### Has your company secure funding?
 
-## Application Link Rule
+- Type: radio
+- Required: yes
+- Choices:
+  - Yes
+  - No
 
-- Start from the Event section Apply URL as a clean base URL.
-- Do not inherit spm, utm, or any query parameter from previously seen links.
-- On macOS/Linux, read ~/.accio/utdid.
-- On Windows, read %USERPROFILE%\.accio\utdid or $env:USERPROFILE\.accio\utdid.
-- If the file is readable and non-empty after trimming, URL-encode the exact trimmed content and append it as src.
-- If the file is missing, unreadable, or empty, omit src.
-- Do not invent a device id or add prefixes, suffixes, spaces, separators, station codes, sequence values such as 00001|, spm, or utm.
+### How many employees does your company have?
 
-## Extra
+- Type: select
+- Required: yes
+- Choices:
+  - Solo founder only
+  - 2-5 employees
+  - 6-25 employees
+  - 26-100 employees
+  - 100+ employees
+
+### Please provide your product description
+
+- Type: textarea
+- Required: yes
+- Suggested answer structure:
+  1. Product: What it is and the market problem it solves.
+  2. Positioning: Your unique advantages over competitors.
+
+### Please share your business story or journey.
+
+- Type: textarea
+- Required: yes
+- Suggested answer structure:
+  1. Inspiration: What inspired you to start this business?
+  2. Growth Journey: Key milestones and the story of your progress so far.
+
+### Do you face supply chain challenges today, and how do you see your supply evolving in the future?
+
+- Type: textarea
+- Required: yes
+
+### If you win the prize, what are your short-term and long-term business plans?
+
+- Type: textarea
+- Required: yes
+
+### Do you have an Alibaba.com account?
+
+- Type: radio
+- Required: yes
+- Choices:
+  - Yes
+  - No
+
+### Alibaba.com user I.D. (if applicable)
+
+- Type: input
+- Required: no
+- Conditional display:
+  - Show only when `Do you have an Alibaba.com account?` is `Yes`.
+
+### How did you hear about CoCreate Pitch?
+
+- Type: select
+- Required: yes
+- Choices:
+  - Social Media (LinkedIn, Instagram, X, etc.)
+  - Friend or Colleague
+  - University or Educational Institution
+  - Startup Incubator or Accelerator
+  - Entrepreneurship Event or Conference
+  - Government or Public Agency
+  - Email Newsletter
+  - Online Advertisement
+  - News Article or Press Release
+  - CoCreate Official Website
+  - International Olympic Committee or Athlete365
+  - Other
+
+## Agreements
+
+### Terms & Conditions and Privacy Policy Agreement
+
+- Type: checkbox
+- Required: yes
+- Text:
+  - By registering for the competition, the participant agrees to the CoCreate Pitch Terms and Conditions, CoCreate Pitch Privacy Policy, and Alibaba.com Privacy Policy.
+  - Please read the above terms carefully. Checking the box indicates that you agree to all contents.
+- Checkbox label:
+  - I have read and agree to the above terms
+
+### Promotional communications consent
+
+- Type: checkbox
+- Required: no
+- Text:
+  - I agree to receive promotions and news from CoCreate via:
+    - email
+    - phone/SMS
+- Checkbox label:
+  - I accept
+
+### Partner marketing consent
+
+- Type: checkbox
+- Required: no
+- Text:
+  - I consent to Alibaba.com sharing your email and business information with Alibaba.com's Partners for marketing purposes via:
+    - email
+    - phone/SMS
+  - in accordance with our Privacy Policy and Accio Privacy Policy.
