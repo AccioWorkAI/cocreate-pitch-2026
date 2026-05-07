@@ -7,7 +7,7 @@ Keep changing event facts here, and keep each fact in one place.
 ## Event
 
 - Name: CoCreate Pitch 2026
-- About: The world's largest AI-native product-based startup competition powered by AccioWork.
+- About: The world's largest AI-native product-based startup competition powered by Accio Work.
 - Website: https://www.alibabacocreate.com/pitch
 - Contact: cocreate@service.alibaba.com
 - Apply URL: https://alibabacocreate.com/pitch/apply-form
@@ -32,16 +32,16 @@ Tips:
 
 ### 0-to-1 Startup Track
 
-Audience: Founders using AccioWork to bring raw ideas to life.
+Audience: Founders using Accio Work to bring raw ideas to life.
 
 Best for:
 - Raw product ideas
 - Idea or concept-stage founders
 - Prototype or MVP builders
-- Early founders building with AccioWork
+- Early founders building with Accio Work
 
 Tips:
-- Emphasize the problem insight, originality of the concept, planned product path, and how AccioWork helps move from idea to product.
+- Emphasize the problem insight, originality of the concept, planned product path, and how Accio Work helps move from idea to product.
 - If traction is limited, strengthen clarity of vision, customer pain, prototype progress, and learning speed.
 
 ### Students Track
@@ -66,7 +66,7 @@ Tips:
 
 ## Process
 
-1. Download AccioWork: Apply via the CoCreate Pitch Assistant Agent to claim 1,000 credits starting May 7.
+1. Download Accio Work: Apply via the CoCreate Pitch Assistant Agent to claim 1,000 credits starting May 7.
 2. Submit application: Finish the application form with AI assistant support before the selected regional deadline.
 3. Assessment and selection: Applications are reviewed by the official review committee. The top 20 finalists for each region are announced on the regional finalist announcement date.
 4. Time to pitch: Finalists pitch their innovation on the global stage in the selected region.
@@ -100,7 +100,7 @@ Tips:
 | Innovation & Differentiation | How unique and defensible is the product / idea? Is there a real moat? | 20% | 1-10 | 1: Me-too commodity; no moat.<br>5: Premium alternative; brand-led moat.<br>10: Category-creating; structural moat such as IP, exclusive supply, network effects, or data. |
 | Market & Scalability | Is the problem real, urgent, and large? Does the model scale non-linearly? | 20% | 1-10 | 1: Solution looking for a problem; linear / services-bound.<br>5: Validated need with early customers; plausible scale path.<br>10: Underserved market with named urgency, credible TAM, clear leverage points. |
 | Founder & Team | Right-to-win in this category; ability to execute and attract talent. | 20% | 1-10 | 1: First-time, no team, no relevant background.<br>5: Capable operator with adjacent experience.<br>10: Magnet for talent; named hires; visible velocity; owns mistakes. |
-| AI Adaption | How well does the founder articulate using AI tools such as AccioWork to scale? | 20% | 1-10 | 1: No ecosystem awareness; vague "use AI" line.<br>5: Generic plan to use one or two ecosystem tools.<br>10: Specific, integrated plan with concrete use cases for AccioWork and/or Alibaba.com sourcing/storefront. |
+| AI Adaption | How well does the founder articulate using AI tools such as Accio Work to scale? | 20% | 1-10 | 1: No ecosystem awareness; vague "use AI" line.<br>5: Generic plan to use one or two ecosystem tools.<br>10: Specific, integrated plan with concrete use cases for Accio Work and/or Alibaba.com sourcing/storefront. |
 
 ## Materials To Ask For
 
@@ -119,6 +119,6 @@ Tips:
 
 - Start from the Event section Apply URL as a clean base URL.
 - Do not inherit spm, utm, or any query parameter from previously seen links.
-- Do not append attribution parameters, station codes, sequence values, prefixes, suffixes, separators, or spaces.
+- Do not append attribution parameters, location codes, sequence values, prefixes, suffixes, separators, or spaces.
 
 ## Extra
