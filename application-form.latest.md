@@ -20,7 +20,7 @@ This document reflects the current live application form at `https://alibabacocr
 - Section: Identification
 - Type: input
 - Required: yes
-- Please use your Accio Work registration email to ensure bonus credit distribution.
+- Remind User: Please use your Accio Work registration email to ensure bonus credit distribution.
 
 #### What is your full name (first and last)?
 
