@@ -230,7 +230,7 @@ This document reflects the current live application form at `https://alibabacocr
 - Type: textarea
 - Required: yes
 - Notes:
-  - Friendly reminder: leverage AccioWorks to research and refine your answer.
+  - Friendly reminder: leverage Accio Work to research and refine your answer.
 - Suggested answer structure:
   - What is the product (or planned product) and the market problem it solves?
   - Who is your target buyer?
@@ -295,7 +295,7 @@ This document reflects the current live application form at `https://alibabacocr
 - Type: checkbox
 - Required: no
 - Checkbox label:
-  - I agree to receive annoucement, promotions and news from CoCreate via email and phone/SMS.
+  - I agree to receive announcement, promotions and news from CoCreate via email and phone/SMS.
 
 ### Partner marketing consent
 
