@@ -66,7 +66,7 @@ Tips:
 
 ## Process
 
-1. Download Accio Work: Apply via the CoCreate Pitch Assistant Agent to claim 1,000 credits starting May 7.
+1. Download Accio Work: Apply via the CoCreate Pitch Assistant Agent to claim 1,000 credits. Make sure to use your Accio Work registration email to unlock 1,000 bonus credits in 3-5 days.
 2. Submit application: Finish the application form with AI assistant support before the selected regional deadline.
 3. Assessment and selection: Applications are reviewed by the official review committee. The top 20 finalists for each region are announced on the regional finalist announcement date.
 4. Time to pitch: Finalists pitch their innovation on the global stage in the selected region.
