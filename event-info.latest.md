@@ -66,7 +66,7 @@ Tips:
 
 ## Process
 
-1. Download Accio Work: Apply via the CoCreate Pitch Assistant Agent to claim 1,000 credits. Make sure to use your Accio Work registration email to unlock 1,000 bonus credits in 3-5 days.
+1. Download Accio Work: Apply via the CoCreate Pitch Assistant Agent to claim 1,000 credits. Make sure to use your Accio Work registration email to unlock 1,000 bonus credits in 3-5 days. The credits are valid for 180 days from the date of issuance.
 2. Submit application: Finish the application form with AI assistant support before the selected regional deadline.
 3. Assessment and selection: Applications are reviewed by the official review committee. The top 20 finalists for each region are announced on the regional finalist announcement date.
 4. Time to pitch: Finalists pitch their innovation on the global stage in the selected region.
@@ -122,3 +122,10 @@ Tips:
 - Do not append attribution parameters, location codes, sequence values, prefixes, suffixes, separators, or spaces.
 
 ## Extra
+- How do I claim my 1,000 bonus credits and what are the rules?
+* To claim your 1,000 extra bonus credits, simply complete and submit your application.
+* You must use the same email address for your application that you used to register for Accio Work.
+* Your credits will be dispatched to your inbox within 3-5 business days after submission.
+* The credits are valid for 180 days from the date of issuance. 
+* Your application and Accio Work account must share the same email address.
+* If encounter any issues, please kindly reach out to us via cocreate@service.alibaba.com
