@@ -123,9 +123,9 @@ Tips:
 
 ## Extra
 - How do I claim my 1,000 bonus credits and what are the rules?
-** To claim your 1,000 extra bonus credits, simply complete and submit your application.
-** You must use the same email address for your application that you used to register for Accio Work.
-** Your credits will be dispatched to your inbox within 3-5 business days after submission.
-** The credits are valid for 180 days from the date of issuance. 
-** Your application and Accio Work account must share the same email address.
-* If encounter any issues, please kindly reach out to us via cocreate@service.alibaba.com
+  * To claim your 1,000 extra bonus credits, simply complete and submit your application.
+  * You must use the same email address for your application that you used to register for Accio Work.
+  * Your credits will be dispatched to your inbox within 3-5 business days after submission.
+  * The credits are valid for 180 days from the date of issuance.
+  * Your application and Accio Work account must share the same email address.
+  * If encounter any issues, please kindly reach out to us via cocreate@service.alibaba.com
