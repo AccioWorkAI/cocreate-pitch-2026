@@ -1,15 +1,18 @@
 # CoCreate Pitch 2026 Event Info
 
-Updated: 2026-05-07
+Updated: 2026-05-27
 
 Keep changing event facts here, and keep each fact in one place.
 
 ## Event
 
 - Name: CoCreate Pitch 2026
-- About: The world's largest AI-native product-based startup competition powered by Accio Work.
+- About: The world's largest product-based startup competition powered by Accio Work.
 - Website: https://www.alibabacocreate.com/pitch
-- Contact: cocreate@service.alibaba.com
+- Contact: 
+ - Los Angeles: cocreatepitchus@helloalice.com
+ - London: cocreatepitcheu@pnptc.com
+ - Seoul: cocreate@service.alibaba.com
 - Apply URL: https://alibabacocreate.com/pitch/apply-form
 - Hashtag: #CoCreate2026
 
@@ -17,7 +20,7 @@ Keep changing event facts here, and keep each fact in one place.
 
 ### General SMEs Track
 
-Audience: Established small and medium businesses ready to scale.
+Audience: small and medium businesses ready to scale.
 
 Best for:
 - Market-ready products
@@ -32,7 +35,7 @@ Tips:
 
 ### 0-to-1 Startup Track
 
-Audience: Founders using Accio Work to bring raw ideas to life.
+Audience: Founders to use Accio Work to bring raw ideas to life.
 
 Best for:
 - Raw product ideas
@@ -46,7 +49,7 @@ Tips:
 
 ### Students Track
 
-Audience: Current students building next-generation products.
+Audience: Currently enrolled students to build next-generation products.
 
 Best for:
 - Current students
@@ -59,14 +62,17 @@ Tips:
 
 ## Locations
 
-| City | Region | Apply by | Top 20 announcement | Finals | Finalists |
+| City | Region | Apply by | Finalist announcement | Finals | Finalists |
 | --- | --- | --- | --- | --- | ---: |
+| Seoul | Korea | 2026-07-25 | 2026-08-10 | Aug 25, 2026 | 10 |
 | Los Angeles | United States | 2026-07-25 | 2026-08-10 | Sept 9-10, 2026 | 20 |
 | London | Europe | 2026-10-05 | 2026-10-20 | Nov 19-20, 2026 | 20 |
 
+
+
 ## Process
 
-1. Download Accio Work: Apply via the CoCreate Pitch Assistant Agent to claim 1,000 credits. Make sure to use your Accio Work registration email to unlock 1,000 bonus credits in 3-5 days. The credits are valid for 180 days from the date of issuance.
+1. Download Accio Work: Apply via the CoCreate Pitch Assistant Agent to claim 1,000 credits. Make sure to use your Accio Work registration email to unlock 1,000 bonus credits in 3-5 business days. The credits are valid for 180 days from the date of issuance.
 2. Submit application: Finish the application form with AI assistant support before the selected regional deadline.
 3. Assessment and selection: Applications are reviewed by the official review committee. The top 20 finalists for each region are announced on the regional finalist announcement date.
 4. Time to pitch: Finalists pitch their innovation on the global stage in the selected region.
@@ -75,18 +81,27 @@ Tips:
 ## Prizes
 
 - Prize pool: $1,000,000+
-- Scope: EU + US total prize pool
+- Scope: EU + US + KR total prize pool
 - Awards:
   - London Final:
     - Gold Winner: $200,000 x 1
     - Silver Winner: $100,000 x 1
     - Bronze Winner: $50,000 x 1
     - Finalist Distinction: $10,000 x 17
+    - All prizes shall be distributed as 50% cash and 50% Alibaba.com credits/coupons.
   - Los Angeles Final:
     - Gold Winner: $200,000 x 1
     - Silver Winner: $100,000 x 1
     - Bronze Winner: $50,000 x 1
     - Finalist Distinction: $10,000 x 17
+    - All prizes shall be distributed as 50% cash and 50% Alibaba.com credits/coupons.
+    Seoul Final:
+    - Gold Winner: ₩70,000,000 x 1
+    - Silver Winner: ₩50,000,000 x 1
+    - Bronze Winner: ₩30,000,000 x 1
+    - Finalist Distinction: ₩5,000,000 x 7
+    - All prizes shall be distributed as 50% cash and 50% Alibaba.com credits/coupons.
+    - 1st, 2nd, and 3rd place winners will be invited to CoCreate LA/London for sharing and exchange, with travel reimbursement up to ₩5,000,000.
 
 ## Judging Criteria
 
@@ -96,7 +111,7 @@ Tips:
 
 | Dimension | What judges assess | Weight | Scale | Scoring rubric anchors |
 | --- | --- | ---: | --- | --- |
-| Pitch & Communication | Clarity, confidence, structure, and pace of the live pitch. | 20% | 1-10 | 1: Confused, jargon-heavy, low confidence.<br>5: Clear structure, professional delivery.<br>10: Compelling arc, commanding presence, crystal clear in under 60 seconds. |
+| Pitch & Communication | Clarity, confidence, structure, and pace of the live pitch. | 20% | 1-10 | 1: Confused, jargon-heavy, low confidence.<br>5: Clear structure, professional delivery.<br>10: Compelling arc, commanding presence, crystal clear. |
 | Innovation & Differentiation | How unique and defensible is the product / idea? Is there a real moat? | 20% | 1-10 | 1: Me-too commodity; no moat.<br>5: Premium alternative; brand-led moat.<br>10: Category-creating; structural moat such as IP, exclusive supply, network effects, or data. |
 | Market & Scalability | Is the problem real, urgent, and large? Does the model scale non-linearly? | 20% | 1-10 | 1: Solution looking for a problem; linear / services-bound.<br>5: Validated need with early customers; plausible scale path.<br>10: Underserved market with named urgency, credible TAM, clear leverage points. |
 | Founder & Team | Right-to-win in this category; ability to execute and attract talent. | 20% | 1-10 | 1: First-time, no team, no relevant background.<br>5: Capable operator with adjacent experience.<br>10: Magnet for talent; named hires; visible velocity; owns mistakes. |
@@ -112,8 +127,8 @@ Tips:
 - X account
 - YouTube account
 - Store link
-- Pitch deck
 - Short product introduction
+- Pitch Deck
 
 ## Application Link Rule
 
@@ -128,4 +143,3 @@ Tips:
   * Your credits will be dispatched to your inbox within 3-5 business days after submission.
   * The credits are valid for 180 days from the date of issuance.
   * Your application and Accio Work account must share the same email address.
-  * If encounter any issues, please kindly reach out to us via cocreate@service.alibaba.com
