@@ -10,9 +10,9 @@ Keep changing event facts here, and keep each fact in one place.
 - About: The world's largest product-based startup competition powered by Accio Work.
 - Website: https://www.alibabacocreate.com/pitch
 - Contact: 
-  - Los Angeles: cocreatepitchus@helloalice.com
-  - London: cocreatepitcheu@pnptc.com
-  - Asia: cocreate@service.alibaba.com
+Los Angeles: cocreatepitchus@helloalice.com
+London: cocreatepitcheu@pnptc.com
+Asia: cocreate@service.alibaba.com
 - Apply URL: https://alibabacocreate.com/pitch/apply-form
 - Hashtag: #CoCreate2026 #cocreatepitch #makeitreal
 
@@ -102,21 +102,21 @@ Tips:
     - Bronze Winner: ₩30,000,000 x 1
     - Finalist Distinction: ₩5,000,000 x 7
     - All prizes shall be distributed as 50% cash and 50% Alibaba.com credits/coupons.
-    - 1st, 2nd, and 3rd place winners will be invited to CoCreate LA/London for sharing and exchange, with travel reimbursement up to ₩5,000,000.
+    - 1st, 2nd, and 3rd place winners will be invited to CoCreate LA for sharing and exchange, with travel reimbursement up to ₩5,000,000.
     Jakarta Final:
     - Gold Winner: Rp800,000,000 x 1
     - Silver Winner: Rp500,000,000 x 1
     - Bronze Winner: Rp200,000,000 x 1
     - Finalist Distinction: Rp50,000,000 x 7
     - All prizes shall be distributed as 50% cash and 50% Alibaba.com credits/coupons.
-    - 1st, 2nd, and 3rd place winners will be invited to CoCreate LA/London for sharing and exchange, with travel reimbursement up to Rp50,000,000.
+    - 1st, 2nd, and 3rd place winners will be invited to CoCreate London for sharing and exchange, with travel reimbursement up to Rp50,000,000.
     Kuala Lumpur Final:
     - Gold Winner: RM200,000 x 1
     - Silver Winner: RM100,000 x 1
     - Bronze Winner: RM50,000 x 1
     - Finalist Distinction: RM15,000 x 7
     - All prizes shall be distributed as 50% cash and 50% Alibaba.com credits/coupons.
-    - 1st, 2nd, and 3rd place winners will be invited to CoCreate LA/London for sharing and exchange, with travel reimbursement up to RM15,000.
+    - 1st, 2nd, and 3rd place winners will be invited to CoCreate London for sharing and exchange, with travel reimbursement up to RM15,000.
 
 
 ## Judging Criteria
