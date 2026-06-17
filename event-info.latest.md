@@ -10,9 +10,9 @@ Keep changing event facts here, and keep each fact in one place.
 - About: The world's largest product-based startup competition powered by Accio Work.
 - Website: https://www.alibabacocreate.com/pitch
 - Contact: 
-Los Angeles: cocreatepitchus@helloalice.com
-London: cocreatepitcheu@pnptc.com
-Asia: cocreate@service.alibaba.com
+  - Los Angeles: cocreatepitchus@helloalice.com
+  - London: cocreatepitcheu@pnptc.com
+  - Asia: cocreate@service.alibaba.com
 - Apply URL: https://alibabacocreate.com/pitch/apply-form
 - Hashtag: #CoCreate2026 #cocreatepitch #makeitreal
 
